@@ -16,7 +16,10 @@
   grid-template-columns: 2fr 1fr 1fr;
   gap: 80px;
 }
-
+.logo {
+  height: 150px;
+  width: 200px;
+}
 .footer-left,
 .footer-right,
 .footer-center {
